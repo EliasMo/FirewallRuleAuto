@@ -12,6 +12,8 @@ Modifying Rules: Update existing firewall rules by adjusting parameters like act
 
 Removing Rules: Remove obsolete or redundant firewall rules to maintain a clean and efficient rule set.
 
+
+
 Benefits:
 
 Efficiency: Automate repetitive tasks related to firewall management, reducing manual effort and potential human errors.
