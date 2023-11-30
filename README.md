@@ -1,6 +1,6 @@
 # Automated Firewall Rule Management with PowerShell
 
-This project focuses on creating a PowerShell script for efficient management of firewall rules on Windows Server 2022. The script will allow users to list existing rules, create new rules, modify rules, and remove rules. The goal is to automate the firewall rule configuration process, enhancing security measures and streamlining administration tasks.
+This project focuses on creating a PowerShell script for efficient management of firewall rules on Windows Server 2022. The script will allow users to list existing rules, create new rules, modify rules, and remove rules. 
 
 - <b> Key Features </b>
 
@@ -53,7 +53,5 @@ In conclusion, the Automated Firewall Rule Management with PowerShell project of
 
 - **System Monitoring Script:**
   - Check out our [System Monitoring PowerShell Script](https://github.com/EliasMo/Sysmonitor-PS) for real-time monitoring of system performance, resource utilization, and more.
-
-Feel free to explore and contribute to other projects in our GitHub repository!
 
 
